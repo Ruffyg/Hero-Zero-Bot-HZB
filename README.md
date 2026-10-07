@@ -11,7 +11,7 @@ Missionen, Duelle, Liga, Training, Versteck, Events und Belohnungen – während
 [![Download](https://img.shields.io/badge/Download-Windows%20·%20macOS%20·%20Linux%20·%20Raspberry%20Pi-c4382d?style=for-the-badge)](https://hzbot.app/downloads.html)
 [![Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhzbot.app%2Fupdates%2Frelease.json&query=%24.version&label=Version&style=for-the-badge&color=3d3a36)](https://hzbot.app/downloads.html)
 [![Preis](https://img.shields.io/badge/Preis-kostenlos-2ea043?style=for-the-badge)](#ist-hzb-wirklich-kostenlos)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Wbgzrj3Gp)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/X8ZwgqARXF)
 
 **[🌐 hzbot.app](https://hzbot.app)** · **[⬇️ Download](https://hzbot.app/downloads.html)** · [Deutsch](#deutsch) · [English](#english)
 
@@ -147,7 +147,7 @@ möglich, eine Garantie gibt es dafür nicht.
 | --- | --- |
 | 🌐 Website | https://hzbot.app |
 | ⬇️ Download | https://hzbot.app/downloads.html |
-| 💬 Discord (Fragen, Ideen, Neuigkeiten) | https://discord.gg/Wbgzrj3Gp |
+| 💬 Discord (Fragen, Ideen, Neuigkeiten) | https://discord.gg/X8ZwgqARXF |
 | ☕ Unterstützen | https://ko-fi.com/ruffyg |
 
 ---
@@ -188,7 +188,7 @@ with a system service for a Raspberry Pi or a server, controlled through the web
 if you like.
 
 **Download and details:** [hzbot.app](https://hzbot.app) ·
-**Community:** [Discord](https://discord.gg/Wbgzrj3Gp)
+**Community:** [Discord](https://discord.gg/X8ZwgqARXF)
 
 ---
 
